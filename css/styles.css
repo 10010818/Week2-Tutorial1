@@ -1,7 +1,37 @@
+h1 {
+    color:green;
+}
+
 img {
-    height: 300px
+    height: 200px;
+    width: 300px;
+  
+}
+
+iframe {   
+    float:left;
+   margin-right:1000px;
 }
 
 body {
-    background-color: navy
+    background-color: navy;
+}
+
+div {
+  margin:3px;
+}
+
+button {
+    float:left;
+    margin-top:10px
+}
+
+#div1 {
+    border:3px solid;
+    height: 200px;
+    width:300px;
+}
+
+#div2 {
+    float:left;
 }
